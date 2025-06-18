@@ -1,0 +1,7 @@
+.streamlit/
+
+.git/
+.gitignore
+
+#Ignorar a pasta do faiss
+faiss_index/

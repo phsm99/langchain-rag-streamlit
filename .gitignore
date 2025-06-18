@@ -1,0 +1,5 @@
+# Ignorar a pasta de segredos do Streamlit
+.streamlit/
+
+#Ignorar a pasta do faiss
+faiss_index/
