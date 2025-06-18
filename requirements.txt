@@ -1,0 +1,19 @@
+# Frontend
+streamlit
+
+# Framework de Orquestração do LLM
+langchain
+langchain-community
+langchain-google-genai
+
+# SDK do Google Gemini
+google-generativeai
+
+# Banco de Dados Vetorial
+faiss-cpu
+
+# Geração de Embeddings
+sentence-transformers
+
+# Validação de Dados e Saída Estruturada
+pydantic
