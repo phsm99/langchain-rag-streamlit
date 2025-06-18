@@ -8,6 +8,8 @@ A utilização do Gemini poderia ter sido alterada para algum outro modelo gener
 
 A parte de RAG foi simples, apenas dois arquivos de exemplo, principalmente para testar um prompt mais restrito para o modelo.
 
+A criação do container docker foi para exercitar esse conceito, criando uma imagem acessível e facilmente replicável. 
+
 Exemplo do funcionamento do projeto:
 
 ![Captura de tela 2025-06-17 134115](https://github.com/user-attachments/assets/a2a90076-244b-447f-b0fc-c1c0f2b7675c)
