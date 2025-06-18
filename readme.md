@@ -1,0 +1,13 @@
+# AgentAI de Chat com LangChain, RAG, Streamlit, Gemini e Docker
+
+Este repositório contém um projeto simples utilizando GenAI, LangChain, RAG, Gemini e Docker.
+
+A ideia foi criar um chatbot simples usando Streamlit para criar um front-end fácil e rápido.
+
+A utilização do Gemini poderia ter sido alterada para algum outro modelo generativo, como LLama, mas preferi usar o Gemini para explorar a questão da utilização de chaves da ferramenta, a substituição por outro modelo é bem simples utilizando o LangChain.
+
+A parte de RAG foi simples, apenas dois arquivos de exemplo, principalmente para testar um prompt mais restrito para o modelo.
+
+Exemplo do funcionamento do projeto:
+
+![Captura de tela 2025-06-17 134115](https://github.com/user-attachments/assets/a2a90076-244b-447f-b0fc-c1c0f2b7675c)
