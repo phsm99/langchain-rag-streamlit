@@ -12,4 +12,5 @@ A criação do container docker foi para exercitar esse conceito, criando uma im
 
 Exemplo do funcionamento do projeto:
 
-![Captura de tela 2025-06-17 134115](https://github.com/user-attachments/assets/a2a90076-244b-447f-b0fc-c1c0f2b7675c)
+![gemini](https://github.com/user-attachments/assets/40796d84-4e59-413e-8593-35d8de18760e)
+
