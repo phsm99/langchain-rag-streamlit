@@ -1,4 +1,4 @@
-# AgentAI de Chat com LangChain, RAG, Streamlit, Gemini e Docker
+# AgentAI com LangChain, RAG, Streamlit, Gemini e Docker
 
 Este repositório contém um projeto simples utilizando GenAI, LangChain, RAG, Gemini e Docker.
 
